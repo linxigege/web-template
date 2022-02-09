@@ -139,7 +139,7 @@
             patches.push(currentPatch);
         }
     }
-
+//---------------------------------------------------------------------------------------------------
     // diff
     function webDiff(container, html) {
         const patches = [];
